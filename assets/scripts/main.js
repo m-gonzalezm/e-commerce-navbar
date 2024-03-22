@@ -59,7 +59,7 @@ const renderNavbar = () => {
           </a>
      </div>
      </nav>
-     <nav class="navbar bg-body-transparent fixed-top d-md-none">
+     <nav class="navbar bg-body-transparent d-md-none">
           <div class="container-fluid">
                <a id="cpd-nav-cart-i" class="navbar-brand ms-2" href="/index.html"><img src="/assets/icons/logo-planet.png" alt="Logo Nuevo Mundo Travel" width="45" height="auto">
                <a href="/assets/pages/cart.html" class="me-1"> <img src="/assets/icons/backpack.png" alt="icono mochila" width="35" height="me-auto"></a>
